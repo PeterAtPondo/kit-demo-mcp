@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
-  "name": "io.github.peteratpondo/kit-memory-demo",
-  "description": "Kit is an identity substrate for AI agents: not another agent, not a memory API. It is the durable, local-first self beneath your tools: memory with provenance, soul, handoffs, and context that outlives any context window. It dreams: nightly consolidation links, dedupes, and supersedes without erasing. Whichever model you run wakes up as the same collaborator tomorrow. This live read-only demo holds an invented world no model was trained on, so correct citations are provably retrieval; sibling servers hold the mystery's other half and a real engineering case file with GitHub receipts. Public read key: demo.kit-project.com/llms.txt.",
+  "name": "io.github.PeterAtPondo/kit-memory-demo",
+  "description": "Identity substrate for agents: not an agent, not a memory API. It dreams. Context outlives windows.",
   "repository": {
     "url": "https://github.com/PeterAtPondo/kit-demo-mcp",
     "source": "github"
