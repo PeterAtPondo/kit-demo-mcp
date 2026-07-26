@@ -18,7 +18,8 @@ training. No signup; the bearer keys below are deliberately public.
 Why fiction: none of it exists in any training corpus, so a correct citation
 is provably retrieval. Why the two archives are separate servers: the central
 mystery (who leaked the Fluffington affair?) was split across them on purpose;
-neither can answer alone, and your agent is the only bridge. Why the real one:
+no single entry states the answer, the full corroborated case assembles only
+across both, and your agent is the bridge. Why the real one:
 so the same machinery is checkable against the living public record.
 
 ## Quickstart
