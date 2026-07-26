@@ -1,7 +1,11 @@
 # Kit memory demo · hosted MCP servers
 
 Three live, public, **read-only** MCP servers, each backed by a running
-[Kit](https://kit-project.com): a local-first memory substrate for AI agents.
+[Kit](https://kit-project.com). Kit is an identity substrate for AI agents:
+not another agent, not a memory API, but the durable, local-first self beneath
+your tools, holding memory with provenance and context that outlives any
+context window, consolidating while it dreams. It has no chat window of its
+own; it lives under the ones you already use.
 Point your agent at them and ask questions the model cannot answer from
 training. No signup; the bearer keys below are deliberately public.
 

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.peteratpondo/kit-memory-demo",
+  "description": "Kit is an identity substrate for AI agents: not another agent, not a memory API. It is the durable, local-first self beneath your tools: memory with provenance, soul, handoffs, and context that outlives any context window. It dreams: nightly consolidation links, dedupes, and supersedes without erasing. Whichever model you run wakes up as the same collaborator tomorrow. This live read-only demo holds an invented world no model was trained on, so correct citations are provably retrieval; sibling servers hold the mystery's other half and a real engineering case file with GitHub receipts. Public read key: demo.kit-project.com/llms.txt.",
+  "repository": {
+    "url": "https://github.com/PeterAtPondo/kit-demo-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://kit-project.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://demo-mcp.kit-project.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Public shared read-only bearer key, deliberately published. Current value is always printed at https://demo.kit-project.com/llms.txt (it may rotate).",
+          "isRequired": true,
+          "isSecret": false,
+          "value": "Bearer kbr_live_Kh9eO_ZfLldveFf1KXJEEvepfOpdgRqf7KoDDU3rB18"
+        }
+      ]
+    }
+  ]
+}
