@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "kit-papers": {
+      "type": "http",
+      "url": "https://demo-mcp.kit-project.com/mcp",
+      "headers": {
+        "Authorization": "Bearer kbr_live_Kh9eO_ZfLldveFf1KXJEEvepfOpdgRqf7KoDDU3rB18"
+      }
+    },
+    "kit-mews": {
+      "type": "http",
+      "url": "https://mews-mcp.kit-project.com/mcp",
+      "headers": {
+        "Authorization": "Bearer kbr_live_UN8-2LUlKmP2uxWQB5vpn-fzkJIuRb5zmq-apQeTU7U"
+      }
+    },
+    "kit-case-file": {
+      "type": "http",
+      "url": "https://real-mcp.kit-project.com/mcp",
+      "headers": {
+        "Authorization": "Bearer kbr_live_ISWsqW39NkqT659FEkQjv0OjJDmyD4O3wx3wcCfA03c"
+      }
+    }
+  }
+}
