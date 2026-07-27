@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.PeterAtPondo/kit-memory-demo",
-  "description": "Identity substrate for agents: not an agent, not a memory API. It dreams. Context outlives windows.",
+  "description": "Continuity for agents: a live memory you can read and cite right now, outliving the context window.",
   "repository": {
     "url": "https://github.com/PeterAtPondo/kit-demo-mcp",
     "source": "github"
