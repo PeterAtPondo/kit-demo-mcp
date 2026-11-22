@@ -1,12 +1,25 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.PeterAtPondo/kit-memory-demo",
+  "title": "Kit Memory Demo",
   "description": "Continuity for agents: a live memory you can read and cite right now, outliving the context window.",
+  "icons": [
+    {
+      "src": "https://kit-project.com/assets/img/kit-apple-touch-180.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    },
+    {
+      "src": "https://kit-project.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
   "repository": {
     "url": "https://github.com/PeterAtPondo/kit-demo-mcp",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://kit-project.com",
   "remotes": [
     {
